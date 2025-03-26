@@ -117,7 +117,11 @@ Then start the application:
 $> npm start
 
 ## Usage
-TODO - How does it work?
+Open your browser and navigate to http://localhost:8080.
+
+You should see the parent component displaying three child components with different text values.
+
+The counter button should increment when clicked.
 ```
 ./my_project argument1 argument2
 ```
